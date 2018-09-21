@@ -11,19 +11,19 @@
 ## *Rules*
  - The object of the game is to get three marks ("X" or "O") in a row. There are a total of 8 different winning combinations. For example;
  
- X X ==O==
+ X X O
  
- X ==O== O
+ X O O
  
- ==O== X X
+ O X X
  
  or
  
- X O ==X==
+ X O X
  
- O O ==X==
+ O O X
  
- O X ==X==
+ O X X
  
  - Players take turns putting their own marks down in unused space on the board. The first with three marks in a row wins. 
  - If no player wins and there are no empty spaces left, the game ends in a tie.
